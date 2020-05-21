@@ -19,7 +19,7 @@ The developed CLI program allows the user to explore an US bikeshare system data
 
 
 Files Used
-The required files for running this program are
+The required files for running this program are:
 
 washington.csv
 new_york_city.csv

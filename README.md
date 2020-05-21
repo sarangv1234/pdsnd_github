@@ -12,7 +12,7 @@ Overview:
 Project 2
 
 Overview
-In this project ,python is used for exploring the data .this project is on bikeshare system which is mainly focussed in three cities i.e washington,newyork,chicago.we have write a code for importing a data and answer the required questions .
+In this project ,python is used for exploring the data .this project is on bikeshare system which is mainly focussed in three cities i.e washington,newyork,chicago.we have write a code for importing a data and answer the required questions.
 
 Project Submission
 The developed CLI program allows the user to explore an US bikeshare system database and retrieve statistics information from the database. The user is able filter the information by city, month and weekday, in order to visualize statistics information related to a specific subset of data. The user is also able to chose to view raw data and to sort this data by columns, in ascending or descending order.

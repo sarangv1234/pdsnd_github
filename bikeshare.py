@@ -262,13 +262,13 @@ def rawData(df, mrk_place):
     # this variable holds where the user last stopped
     if mrk_place > 0:
         last_place = option("\nWould you like to continue from where you "
-                            "stopped last time? \n [y] Yes\n [n] No\n\n>")
+                            "stopped time? \n [y] Yes\n [n] No\n\n>")
         if last_place == 'n':
             mrk_place = 0
 
     # sort data by column
     if mrk_place == 0:
-        sort_df = option("\nHow would you like to sort the way the data is "
+        sort_df = option("\nHow  you like to sort the way the data is "
                          "displayed in the dataframe? Hit Enter to view "
                          "unsorted.\n \n [st] Start Time\n [et] End Time\n "
                          "[td] Trip Duration\n [ss] Start Station\n "

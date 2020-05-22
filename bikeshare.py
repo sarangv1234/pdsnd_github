@@ -268,7 +268,7 @@ def rawData(df, mrk_place):
 
     # sort data by column
     if mrk_place == 0:
-        sort_df = option("\nHow  you like to sort the way the data is "
+        sort_df = option("\nHow you like to sort the way the data is "
                          "displayed in the dataframe? Hit Enter to view "
                          "unsorted.\n \n [st] Start Time\n [et] End Time\n "
                          "[td] Trip Duration\n [ss] Start Station\n "

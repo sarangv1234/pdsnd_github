@@ -255,7 +255,7 @@ def user_statistics(df, cty):
 
 
 def rawData(df, mrk_place):
-    """Display 5 line of sorted raw data each time."""
+    """Display 5 line sorted raw data each time."""
 
     print("\nYou opted to view raw data.")
 
@@ -268,7 +268,7 @@ def rawData(df, mrk_place):
 
     # sort data by column
     if mrk_place == 0:
-        sort_df = option("\nHow you like to sort the way the data is "
+        sort_df = option("\nHow like to sort the way the data is "
                          "displayed in the dataframe? Hit Enter to view "
                          "unsorted.\n \n [st] Start Time\n [et] End Time\n "
                          "[td] Trip Duration\n [ss] Start Station\n "

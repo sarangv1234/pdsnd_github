@@ -33,3 +33,6 @@ numpy==1.15.4
 
 Project 3
 This project consisted in using Git and GitHub with a simulated workflow to refactor Project 2.
+
+-udacity programming for data science using python classroom.(https://www.udacity.com)
+-github guide (https://guides.github.com/introduction/flow/)
